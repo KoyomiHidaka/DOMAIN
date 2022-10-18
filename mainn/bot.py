@@ -2,7 +2,7 @@ from aiogram import Dispatcher, types, Bot
 from entry import bot, dp
 import surrogates
 
-# ID/LAND_OF_MEMORIES
+# LAND_OF_MEMORIES
 dance_of_steel_I = "AgACAgIAAxkBAANkY03H63zwe5FEISQyV7cyLRYtZCIAAi7AMRvOMXFKe5G4uR5ZfqUBAAMCAAN4AAMqBA"
 dance_of_steel_II = "AgACAgIAAxkBAANmY03H8Z3-zMLHdjPYUGfn2whH7AIAAi_AMRvOMXFKq3ygI_EYfqQBAAMCAAN4AAMqBA"
 dance_of_steel_III = "AgACAgIAAxkBAANoY03H8xDhgtCDFxjhMNLBIiPdGk4AAjDAMRvOMXFK2eoccTUIuJsBAAMCAAN4AAMqBA"
